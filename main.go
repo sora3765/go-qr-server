@@ -3,7 +3,7 @@ package main
 import (
 	"flag"
 	"fmt"
-	"go-qr-app/qrgen"
+	"go-qr-server/qrgen"
 	"image/png"
 	"os"
 )
